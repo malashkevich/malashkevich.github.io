@@ -1,0 +1,16 @@
+body {
+    padding: 60px 36px;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #232323
+}
+
+.name{
+    color:#bc9458;
+    font-weight: 600;
+    font-size: 1.17em;
+}
+
+.name a {
+    color: #519f50;
+    text-decoration: none;
+}
