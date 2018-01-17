@@ -1,7 +1,22 @@
 body {
-    padding: 60px 36px;
+    padding: 60px 0 60px 56px ;
     font-family: 'Roboto Mono', monospace;
-    background-color: #232323
+    background-color: #232323;
+    max-width: 500px;
+    color: #e6e1dc;
+}
+
+a {
+    text-decoration: none;
+    color: #c26230;
+}
+
+p {
+    line-height: 1.57em;
+}
+
+section {
+    margin: 60px 0;
 }
 
 .name{
@@ -10,7 +25,12 @@ body {
     font-size: 1.17em;
 }
 
-.name a {
-    color: #519f50;
-    text-decoration: none;
+ul {
+    padding: 0;
+}
+
+li, li a {
+    color: #a5c261;
+    list-style: none;
+    margin: 10px 0;
 }
