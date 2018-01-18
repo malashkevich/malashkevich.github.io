@@ -1,5 +1,5 @@
 body {
-    padding: 60px 0 60px 56px ;
+    padding: 48px 0 0px 56px;
     font-family: 'Roboto Mono', monospace;
     background-color: #232323;
     max-width: 500px;
@@ -16,11 +16,16 @@ p {
 }
 
 section {
-    margin: 60px 0;
+    margin: 48px 0;
 }
 
-.name{
-    color:#bc9458;
+h4 {
+    color: #6d9cbe;
+    margin-bottom: 0;
+}
+
+.name {
+    color: #bc9458;
     font-weight: 600;
     font-size: 1.17em;
 }
